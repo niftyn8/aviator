@@ -63,6 +63,7 @@ module Aviator
         environment[:auth_credentials].each do |key, value|
           params[key] = value
         end
+        self
       end
 
       response = auth_service.request environment[:auth_service][:request].to_sym, &block
