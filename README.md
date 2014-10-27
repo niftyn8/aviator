@@ -1,4 +1,6 @@
 ![Aviator](https://raw.github.com/aviator/www/gh-pages/images/logo-small.png)
+[ ![Codeship Status for niftyn8/aviator](https://www.codeship.io/projects/b5be7600-4030-0132-6a6a-6af74bc6b2d2/status)](https://www.codeship.io/projects/43797)
+
 <br/>An elegantly designed OpenStack SDK for Ruby
 
 [![Build Status](https://travis-ci.org/aviator/aviator.png?branch=master)](https://travis-ci.org/aviator/aviator)
